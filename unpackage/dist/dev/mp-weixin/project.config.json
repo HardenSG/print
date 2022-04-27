@@ -1,0 +1,27 @@
+{
+    "description": "项目配置文件。",
+    "packOptions": {
+        "ignore": []
+    },
+    "setting": {
+        "urlCheck": false
+    },
+    "compileType": "miniprogram",
+    "libVersion": "",
+    "appid": "wx6836fb3c447f8868",
+    "projectname": "print",
+    "condition": {
+        "search": {
+            "list": []
+        },
+        "conversation": {
+            "list": []
+        },
+        "game": {
+            "list": []
+        },
+        "miniprogram": {
+            "list": []
+        }
+    }
+}

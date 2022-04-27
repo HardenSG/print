@@ -1,0 +1,1 @@
+<view><text class="header">八零五打印店</text><button type="default" data-event-opts="{{[['tap',[['upload',['$event']]]]]}}" bindtap="__e">上传文件</button><button type="default" data-event-opts="{{[['tap',[['pay',['$event']]]]]}}" bindtap="__e">支付</button></view>
